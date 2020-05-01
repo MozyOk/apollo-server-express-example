@@ -1,0 +1,19 @@
+{
+  "name": "apollo-server-express-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "apollo-server-express-example": "apollo-server-express-example"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "MozyOk",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.12.0",
+    "express": "^4.17.1"
+  }
+}
